@@ -1,0 +1,6 @@
+.marquee img {
+  height: 30vh;
+  width: 30vh;
+  object-fit: cover;
+  padding: 1rem;
+}

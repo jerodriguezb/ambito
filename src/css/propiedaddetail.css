@@ -1,0 +1,41 @@
+.card-titulo {
+  color: #1d3557 !important;
+}
+.card-precio {
+  color: #e63946 !important;
+}
+
+/* .avatar {
+  border-radius: 100%;
+  width: 1rem;
+  border: 0.5rem solid rgb(0, 255, 64);
+} */
+
+#check {
+  font-size: 2rem;
+  color: #e63946;
+}
+
+#check1 {
+  font-size: 2rem;
+  color: #1d3557;
+}
+
+li,
+h4,
+h5 {
+  color: #1d3557 !important;
+}
+
+.fa-ul {
+  font-size: 1.5rem;
+}
+
+#carousel-inner img {
+  /* height: 40rem;
+  width: 10rem; */
+  /* position: relative; */
+  height: 70vh;
+  width: 20vh;
+  /* object-fit: cover; */
+}
